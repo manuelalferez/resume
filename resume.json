@@ -1,0 +1,159 @@
+{
+  "selectedTemplate": 5,
+  "headings": {
+    "skills": "Skills ",
+    "awards": "Awards",
+    "education": "Education ",
+    "projects": "Projects",
+    "work": "Organizations"
+  },
+  "basics": {
+    "name": "Manuel Alférez Ruiz",
+    "email": "manuelalferezruiz@gmail.com",
+    "phone": "(+34) 722 77 80 74",
+    "location": {
+      "address": "Spain "
+    },
+    "website": "https://www.manuelalferez.com"
+  },
+  "education": [
+    {
+      "location": "Jaén, Spain",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "Sep 2015",
+      "gpa": "",
+      "institution": "University of Jaén ",
+      "endDate": "Jun 2021"
+    }
+  ],
+  "work": [
+    {
+      "location": "Jaén, Spain ",
+      "position": "Co-organizer",
+      "website": "",
+      "startDate": "Sep 2018",
+      "endDate": "Present",
+      "highlights": [
+        "Supporting the community to organize events of 300 people. ",
+        "Gave a presentation and a workshop on React and Google Cloud, respectively. ",
+        "Helping to create a community of 800+ people. "
+      ],
+      "company": "Google Developer Group "
+    },
+    {
+      "highlights": [
+        "Creating an Open Source repository where students from the University of Jaén can share notes and knowledge.",
+        "Currently, with 6 stars and 4 forks.",
+        "https://github.com/Stuja/stuja"
+      ],
+      "company": "Stuja",
+      "position": "Founder",
+      "location": "Jaén, Spain ",
+      "startDate": "Mar 2020",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript ",
+        "Git",
+        "Bash",
+        "C/C++",
+        "Markdown",
+        "Go"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Teamwork ",
+        "Proactive",
+        "Creative thinking",
+        "Openness to criticism",
+        null,
+        null
+      ],
+      "name": "Soft Skills"
+    },
+    {
+      "keywords": [
+        "Spanish (Native)",
+        "English (Professional Working Proficiency)"
+      ],
+      "name": "Human Languages"
+    }
+  ],
+  "projects": [
+    {
+      "description": "A simple site created in React, with blog integration and routing.",
+      "keywords": [
+        "React ",
+        "React Router"
+      ],
+      "name": "Personal Website",
+      "url": "https://github.com/manuelalferez/personal-website"
+    },
+    {
+      "keywords": [
+        "Next.js ",
+        "Tailwind"
+      ],
+      "name": "Blog",
+      "description": "Personal blog using Next.js and tailwind.",
+      "url": "https://github.com/manuelalferez/blog"
+    },
+    {
+      "keywords": [
+        "C++"
+      ],
+      "description": "A program to format our financial data and obtain statistics about them.",
+      "name": "Finances",
+      "url": "https://github.com/manuelalferez/finances"
+    },
+    {
+      "keywords": [
+        "React.js",
+        "Scoket.IO",
+        "Express",
+        "tailwindcss",
+        "Heroku",
+        "vercel"
+      ],
+      "name": "Chatcus",
+      "description": "A real-time chat application using React.js and Socket.IO.",
+      "url": "https://github.com/manuelalferez/chatcus"
+    }
+  ],
+  "awards": [
+    {
+      "title": "JavaScript Algorithms and Data Structures",
+      "date": "Aug 2021",
+      "awarder": "freeCodeCamp",
+      "summary": "Learning Object Oriented Programming and Functional Programming."
+    },
+    {
+      "title": "ReactJS",
+      "date": "Apr 2019",
+      "awarder": "Platzi",
+      "summary": "Learning how React works and how to use the components. "
+    },
+    {
+      "title": "Go",
+      "date": "Apr 2020",
+      "awarder": "Platzi",
+      "summary": "Introductory Go course, learning: channels, Goroutines, basic data structures"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
