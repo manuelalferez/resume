@@ -25,6 +25,14 @@
       "gpa": "",
       "institution": "University of Jaén ",
       "endDate": "Jun 2021"
+    },
+    {
+      "institution": "University of Jyväskylä",
+      "location": "Jyväskylä, Finland",
+      "studyType": "BS",
+      "area": "Information technology",
+      "startDate": "Jan 2021",
+      "endDate": "May 2021"
     }
   ],
   "work": [
@@ -88,13 +96,17 @@
   ],
   "projects": [
     {
-      "description": "A simple site created in React, with blog integration and routing.",
       "keywords": [
-        "React ",
-        "React Router"
+        "React.js",
+        "Scoket.IO",
+        "Express",
+        "tailwindcss",
+        "Heroku",
+        "vercel (CI/CD)"
       ],
-      "name": "Personal Website",
-      "url": "https://github.com/manuelalferez/personal-website"
+      "name": "Chatcus",
+      "description": "A real-time chat application using React.js and Socket.IO.",
+      "url": "https://github.com/manuelalferez/chatcus"
     },
     {
       "keywords": [
@@ -107,24 +119,12 @@
     },
     {
       "keywords": [
-        "C++"
-      ],
-      "description": "A program to format our financial data and obtain statistics about them.",
-      "name": "Finances",
-      "url": "https://github.com/manuelalferez/finances"
-    },
-    {
-      "keywords": [
         "React.js",
-        "Scoket.IO",
-        "Express",
-        "tailwindcss",
-        "Heroku",
-        "vercel"
+        "React Router"
       ],
-      "name": "Chatcus",
-      "description": "A real-time chat application using React.js and Socket.IO.",
-      "url": "https://github.com/manuelalferez/chatcus"
+      "description": "A simple site created in React, with blog integration and routing.",
+      "name": "Personal Website",
+      "url": "https://github.com/manuelalferez/personal-website"
     }
   ],
   "awards": [
