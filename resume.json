@@ -105,7 +105,7 @@
         "vercel (CI/CD)"
       ],
       "name": "Chatcus",
-      "description": "A real-time chat application using React.js and Socket.IO.",
+      "description": "A real-time chat application using React.js and Socket.IO. Currently, with 4 stars and 9 forks.",
       "url": "https://github.com/manuelalferez/chatcus"
     },
     {
