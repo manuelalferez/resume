@@ -1,2 +1,2 @@
 # My resume
-Build with https://resumake.io/
+Built with https://resumake.io/
