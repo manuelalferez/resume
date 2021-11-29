@@ -5,7 +5,7 @@
     "awards": "Awards",
     "education": "Education ",
     "projects": "Projects",
-    "work": "Organizations"
+    "work": "Experience"
   },
   "basics": {
     "name": "Manuel Alférez Ruiz",
@@ -37,42 +37,33 @@
   ],
   "work": [
     {
-      "location": "Jaén, Spain ",
-      "position": "Co-organizer",
-      "website": "",
-      "startDate": "Sep 2018",
-      "endDate": "Present",
+      "highlights": [
+        "Iycdangbo. Helping to develop a website to give visibility to the non-profit organisation and acceptance of donations. Made with: Next.js | Tailwindcss | Node.js | Stripe | Prismic | Figma  ",
+        null
+      ],
+      "company": "Freelance",
+      "position": "Full Stack Developer",
+      "location": "Spain",
+      "startDate": "Sep 2020",
+      "endDate": "Present"
+    },
+    {
       "highlights": [
         "Supporting the community to organize events of 300 people. ",
         "Gave a presentation and a workshop on React and Google Cloud, respectively. ",
         "Helping to create a community of 800+ people. "
       ],
-      "company": "Google Developer Group "
-    },
-    {
-      "highlights": [
-        "Creating an Open Source repository where students from the University of Jaén can share notes and knowledge.",
-        "Currently, with 6 stars and 4 forks.",
-        "https://github.com/Stuja/stuja"
-      ],
-      "company": "Stuja",
-      "position": "Founder",
+      "company": "Google Developer Group ",
+      "position": "Co-organizer",
       "location": "Jaén, Spain ",
-      "startDate": "Mar 2020",
+      "startDate": "Sep 2018",
       "endDate": "Present"
     }
   ],
   "skills": [
     {
       "level": "",
-      "keywords": [
-        "JavaScript ",
-        "Git",
-        "Bash",
-        "C/C++",
-        "Markdown",
-        "Go"
-      ],
+      "keywords": ["JavaScript ", "Git", "Bash", "C/C++", "Markdown", "Go"],
       "name": "Programming Languages"
     },
     {
@@ -101,27 +92,22 @@
         "Scoket.IO",
         "Express",
         "tailwindcss",
-        "Heroku",
-        "vercel (CI/CD)"
+        "Heroku ",
+        "Server in Google Cloud (CI/CD) ",
+        "Client in vercel (CI/CD)"
       ],
       "name": "Chatcus",
-      "description": "A real-time chat application using React.js and Socket.IO. Currently, with 4 stars and 9 forks.",
+      "description": "A real-time chat application using React.js and Socket.IO. Currently, with 9 stars and 11 forks.",
       "url": "https://github.com/manuelalferez/chatcus"
     },
     {
-      "keywords": [
-        "Next.js ",
-        "Tailwind"
-      ],
+      "keywords": ["Next.js ", "Tailwind"],
       "name": "Blog",
       "description": "Personal blog using Next.js and tailwind.",
       "url": "https://github.com/manuelalferez/blog"
     },
     {
-      "keywords": [
-        "React.js",
-        "React Router"
-      ],
+      "keywords": ["React.js", "React Router"],
       "description": "A simple site created in React, with blog integration and routing.",
       "name": "Personal Website",
       "url": "https://github.com/manuelalferez/personal-website"
