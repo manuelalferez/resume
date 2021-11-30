@@ -38,7 +38,7 @@
   "work": [
     {
       "highlights": [
-        "Iycdangbo. Helping to develop a website to give visibility to the non-profit organisation and acceptance of donations. Made with: Next.js | Tailwindcss | Node.js | Stripe | Prismic | Figma  ",
+        "Dangbo Project. Helping to develop a website to give visibility to the non-profit organisation and acceptance of donations. Made with: Next.js | Tailwindcss | Node.js | Stripe | Prismic | Figma  ",
         null
       ],
       "company": "Freelance",
@@ -121,16 +121,16 @@
       "summary": "Learning Object Oriented Programming and Functional Programming."
     },
     {
-      "title": "ReactJS",
-      "date": "Apr 2019",
-      "awarder": "Platzi",
-      "summary": "Learning how React works and how to use the components. "
-    },
-    {
       "title": "Go",
       "date": "Apr 2020",
       "awarder": "Platzi",
       "summary": "Introductory Go course, learning: channels, Goroutines, basic data structures"
+    },
+    {
+      "title": "ReactJS",
+      "date": "Apr 2019",
+      "awarder": "Platzi",
+      "summary": "Learning how React works and how to use the components. "
     }
   ],
   "sections": [
