@@ -38,7 +38,7 @@
   "work": [
     {
       "highlights": [
-        "Dangbo Project. Helping to develop a website to give visibility to the non-profit organisation and acceptance of donations. Made with: Next.js | Tailwindcss | Node.js | Stripe | Prismic | Figma  ",
+        "Dangbo Project. Helping to develop a website to give visibility to the non-profit organization and acceptance of donations. Made with: Next.js | Tailwindcss | Node.js | Stripe | Prismic | Figma  ",
         null
       ],
       "company": "Freelance",
@@ -63,7 +63,14 @@
   "skills": [
     {
       "level": "",
-      "keywords": ["JavaScript ", "Git", "Bash", "C/C++", "Markdown", "Go"],
+      "keywords": [
+        "JavaScript ",
+        "Git",
+        "Bash",
+        "C/C++",
+        "Markdown",
+        "Go"
+      ],
       "name": "Programming Languages"
     },
     {
@@ -101,13 +108,19 @@
       "url": "https://github.com/manuelalferez/chatcus"
     },
     {
-      "keywords": ["Next.js ", "Tailwind"],
+      "keywords": [
+        "Next.js ",
+        "Tailwind"
+      ],
       "name": "Blog",
       "description": "Personal blog using Next.js and tailwind.",
       "url": "https://github.com/manuelalferez/blog"
     },
     {
-      "keywords": ["React.js", "React Router"],
+      "keywords": [
+        "React.js",
+        "React Router"
+      ],
       "description": "A simple site created in React, with blog integration and routing.",
       "name": "Personal Website",
       "url": "https://github.com/manuelalferez/personal-website"
