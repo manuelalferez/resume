@@ -1,2 +1,3 @@
 # My resume
-Built with https://resumake.io/
+
+You can see my resume in [**resume.pdf**](https://github.com/manuelalferez/resume/blob/master/resume.pdf)
